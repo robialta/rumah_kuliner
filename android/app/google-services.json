@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "356493445085",
+    "project_id": "rumah-kuliner-lombok",
+    "storage_bucket": "rumah-kuliner-lombok.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356493445085:android:11ccda94d3b65009661834",
+        "android_client_info": {
+          "package_name": "com.rbs.rumah_kuliner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356493445085-arupu47et12bud0as1rrv87ks5khklij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDScKV1l2LHd1qyRlR98wDjkFzL2IFBD-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356493445085-arupu47et12bud0as1rrv87ks5khklij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
